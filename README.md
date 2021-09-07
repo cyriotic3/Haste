@@ -11,7 +11,7 @@
 
 ## Changelogs
 
-**v1.0.1
+**v1.0.1**
 
     changed primary_dark_800 colour from #00222b to #08333c
 
