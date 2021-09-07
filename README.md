@@ -15,6 +15,6 @@
 
     changed primary_dark_800 colour from #00222b to #08333c
 
-**1.0.0**
+**v1.0.0**
 
     initial release
