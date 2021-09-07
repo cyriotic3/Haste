@@ -2,7 +2,7 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Haste",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Haste\/main\/Haste.json"
     },
     "background": {},
@@ -23,7 +23,7 @@
         "primary_dark_630": -16766410,
         "primary_dark_660": -16239812,
         "primary_dark_700": -16768469,
-        "primary_dark_800": -16768469,
+        "primary_dark_800": -16239812,
         "uikit_btn_bg_color_selector_red": -7291703,
         "uikit_btn_compound_color_selector_dark": -7291703,
         "primary_dark_360": -11963521
