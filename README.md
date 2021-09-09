@@ -11,6 +11,11 @@
 
 ## Changelogs
 
+**v1.0.5**
+
+    added statusbar, ic_direct_message_header & ic_group_message_header
+    changed primary_700 colour from #00222b to #08333c
+
 **v1.0.1**
 
     changed primary_dark_800 colour from #00222b to #08333c
