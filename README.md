@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v1.0.6**
+
+    added ic_menu_24dp
+
 **v1.0.5**
 
     added statusbar, ic_direct_message_header & ic_group_message_header
