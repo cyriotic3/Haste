@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v1.0.7**
+
+    added uikit_settings_item_text_color_dark
+
 **v1.0.6**
 
     added ic_menu_24dp
