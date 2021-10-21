@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/cyriotic3/Haste/main/HastePreview.png)
+![Preview](https://raw.githubusercontent.com/cyriotic3/Haste/main/HastePreview2.png)
 
 ## Colours
 
