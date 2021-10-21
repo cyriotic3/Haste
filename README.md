@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v1.0.12**
+
+    added fonts (Noto Sans Mono), disable Font Hook if you don't like it.
+
 **v1.0.11**
 
     added abc_tint_switch_track, uikit_settings_item_text_color_light & ic_sidebar_search_24dp
