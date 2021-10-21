@@ -2,11 +2,13 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Haste",
-        "version": "1.0.11",
+        "version": "1.0.12",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Haste\/main\/Haste.json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Haste\/main\/NotoSansMono.ttf"
+    },
     "simple_colors": {
         "mention_highlight": 872415231,
         "accent": -7291703,
